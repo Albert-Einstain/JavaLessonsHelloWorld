@@ -40,6 +40,24 @@ public class Main {
             System.out.println("Нет корней.");
         }
 
+        /*
+
+        Comment
+
+         */
+
+        /*
+
+        Comment  2
+
+         */
+
+
+
+
+
+
+
 //        if(d > 0) {
 //            double x1 = (-b + Math.sqrt(d)) / (2 * a);
 //            double x2 = (-b - Math.sqrt(d)) / (2 * a);
